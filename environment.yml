@@ -2,4 +2,3 @@ name: python 3.7
 dependencies:
   - python=3.7
   - cobra
-  - escher
