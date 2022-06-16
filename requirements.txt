@@ -1,3 +1,0 @@
-notebook
-cobra==0.25.0
-Escher==1.7.3
